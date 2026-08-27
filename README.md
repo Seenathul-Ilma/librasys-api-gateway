@@ -54,8 +54,8 @@ Routing is defined declaratively (via `application.yaml` pulled from `config-ser
 
 ### Build
 ```bash
-git clone https://github.com/Seenathul-Ilma/api-gateway.git
-cd api-gateway
+git clone https://github.com/Seenathul-Ilma/librasys-api-gateway.git
+cd librasys-api-gateway
 mvn clean package -DskipTests
 ```
 
